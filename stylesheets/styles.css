@@ -84,6 +84,7 @@ a {
 
 .thumbnail-image {
     display: block;
+    min-height: 80px;
     width: 100%;
 }
 
